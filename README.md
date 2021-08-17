@@ -1,5 +1,5 @@
 # Encuesta
-pequeña encuesta creada en PHP, HTML, CSS, Javascript
+Pequeña encuesta creada en PHP, HTML, CSS, Javascript
 
 Utilizo cosas aprendidas como:
 
